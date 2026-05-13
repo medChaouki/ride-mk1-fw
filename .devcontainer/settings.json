@@ -1,0 +1,9 @@
+{
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "xaver.clang-format",
+    "clangd.arguments": [
+        "--background-index",
+        "--clang-tidy"
+    ]
+}

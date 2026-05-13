@@ -7,7 +7,14 @@
   "workspaceFolder": "/workspaces/ride-mk1-fw",
   "customizations": {
     "vscode": {
+      "settings": {
+            "C_Cpp.intelliSenseEngine": "disabled",
+            "editor.formatOnSave": true,
+            "editor.defaultFormatter": "xaver.clang-format"
+      },
       "extensions": [
+        "llvm-vs-code-extensions.vscode-clangd",
+        "xaver.clang-format",
         "ms-vscode.cpptools",
         "ms-vscode.cmake-tools",
         "ms-python.python",
