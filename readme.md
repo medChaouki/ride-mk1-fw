@@ -1,6 +1,6 @@
 *** R.I.D.E Mk1 ***
 
-Real-time Intelligent Detection of Events
+Real-time Intelligent Detector of Events
 R.I.D.E Mk1 is a motorcycle controller project focused on:
 - action camera control
 - ride event tagging
